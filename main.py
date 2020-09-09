@@ -1,6 +1,6 @@
 # Ken Holm
 # Purpose: Demonstrate how to handle errors (es) nicely
-#  See https://docs.python.org/3/library/es.html
+#  See https://docs.python.org/3.8/library/exceptions.html
 #  for e types
 
 # Jump into an infinite loop, for testing
