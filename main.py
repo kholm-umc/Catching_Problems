@@ -1,4 +1,5 @@
 # Ken Holm
+# 10/4/2023
 # Purpose: Demonstrate how to handle errors (es) nicely
 #  See https://docs.python.org/3.8/library/exceptions.html
 #  for e types
